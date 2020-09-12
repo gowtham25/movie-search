@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sapient-assignment/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sapient-assignment/static/js/main.97571e25.chunk.js",
+    "main.js.map": "/sapient-assignment/static/js/main.97571e25.chunk.js.map",
+    "runtime-main.js": "/sapient-assignment/static/js/runtime-main.bcc21769.js",
+    "runtime-main.js.map": "/sapient-assignment/static/js/runtime-main.bcc21769.js.map",
+    "static/js/2.b64f5e76.chunk.js": "/sapient-assignment/static/js/2.b64f5e76.chunk.js",
+    "static/js/2.b64f5e76.chunk.js.map": "/sapient-assignment/static/js/2.b64f5e76.chunk.js.map",
+    "index.html": "/sapient-assignment/index.html",
+    "precache-manifest.f0df23a3c1c4ddf49c096eed987f8e16.js": "/sapient-assignment/precache-manifest.f0df23a3c1c4ddf49c096eed987f8e16.js",
+    "service-worker.js": "/sapient-assignment/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sapient-assignment/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b64f5e76.chunk.js.LICENSE.txt": "/sapient-assignment/static/js/2.b64f5e76.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sapient-assignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcc21769.js",
+    "static/js/2.b64f5e76.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.97571e25.chunk.js"
+  ]
+}
